@@ -122,7 +122,7 @@ button.emby-scrollbuttons-scrollbutton.paper-icon-button-light {
 
 @media (min-width: 50em) {
 	.misty-banner-item {
-		min-height: 75vh;
+		min-height: 15vh;
 	}
 }
 
